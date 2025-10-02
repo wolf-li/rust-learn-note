@@ -1,0 +1,5 @@
+[book]
+authors = ["wolf-li"]
+language = "zh"
+src = "src"
+title = "rust-learn-note"

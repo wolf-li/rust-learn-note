@@ -1,5 +1,21 @@
 [book]
 authors = ["wolf-li"]
-language = "zh"
+language = "zh-CN"
 src = "src"
 title = "rust-learn-note"
+
+[output.html]
+git-repository-url = "https://github.com/wolf-li/rust-learn-note"
+# git-repository-icon = "fa-gitlab"
+git-repository-icon = "fa-github"
+mathjax-support = true # 支持数学公式
+
+[output.html.search]
+enable = true
+limit-results = 20
+
+# 章节折叠
+# [output.html.fold]
+# enable = true
+# level = 0
+
